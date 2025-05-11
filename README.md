@@ -9,11 +9,26 @@
 
 - 🔭 I’m currently studying at **UEMK, INDIA**
 
-- 🌱 I’m currently learning **React, UI/UX designing**
-
 - 🔭I'm currently an **Undergrad, 3rd year**
 
 - 📫 How to reach me **616447sohanghosh@gmail.com**
+
+  ---
+
+###  My Projects
+
+- 🎯 **License Plate Detection** using YOLOv5 & EasyOCR
+
+---
+
+### 🌱 Currently Learning
+
+- Data Structures & Algorithms 📚
+- Web3 Development 🌐
+- UI/UX designing 🏗️
+
+---
+
 
   <p align="center">
   <img src="https://github.com/user-attachments/assets/75ad41a7-bb5e-4421-9001-b5ff55acf2ed" width="700" alt="hi gif">
@@ -38,7 +53,9 @@
  <p align="center">
   <img src="https://github.com/user-attachments/assets/431a349b-fa36-4278-b27d-f5b10872bc42" width="600" alt="hi gif">
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Bye;See+You+Later!&center=true&width=380&height=45&color=A63A50&vCenter=true&size=25" alt="Hi animation" />
 </p>
 
+![Snake Animation](https://raw.githubusercontent.com/notlevi911/notlevi911/main/dist/github-contribution-grid-snake.svg)
