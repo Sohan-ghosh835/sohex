@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently studying at **UEMK, INDIA**
 
-- 🔭I'm currently an **Undergrad, 3rd year**
+- 🔭 Currently an **Undergrad, 3rd year**
 
-- 📫 How to reach me **616447sohanghosh@gmail.com**
+- 📫 How to reach me:  **616447sohanghosh@gmail.com**
 
   ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 - Data Structures & Algorithms 📚
 - Frontend Development 🌐
