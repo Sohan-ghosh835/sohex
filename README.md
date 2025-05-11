@@ -16,7 +16,7 @@
 - 📫 How to reach me **616447sohanghosh@gmail.com**
 
   <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxxOGg4MW9ieTk1OHQ2cDd0OWNrejVyaXlsZ3l2NWg5NDY3cHJucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OG63XZG9zalJpPIkGL/giphy.gif" width="150" alt="hi gif">
+  <img src="https://github.com/user-attachments/assets/7c5aa526-0d92-459c-94a5-3e65671f6c0a" width="150" alt="hi gif">
 </p>
 
 <h3 align="left">Connect with me:</h3>
