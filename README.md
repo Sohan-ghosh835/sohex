@@ -24,7 +24,7 @@
 ### 🌱 Currently Learning
 
 - Data Structures & Algorithms 📚
-- Web3 Development 🌐
+- Frontend Development 🌐
 - UI/UX designing 🏗️
 
 ---
