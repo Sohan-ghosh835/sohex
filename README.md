@@ -68,4 +68,12 @@
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/notlevi911/notlevi911/main/dist/github-contribution-grid-snake.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sohan-ghosh835/Sohan-ghosh835/output/snake.svg" alt="Snake animation" />
+
+###
+
+---
+
+
