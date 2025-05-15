@@ -13,11 +13,14 @@
 
 - 📫 How to reach me:  **616447sohanghosh@gmail.com**
 
+- 🌐 My Website:  **https://sohan-ghosh835.github.io/Sohan-Portfolio/**
+
   ---
 
 ###  My Projects
 
 - 🎯 **License Plate Detection** using YOLOv5 & EasyOCR
+- 🌐 Portfolio Website (HTML, CSS, JS)
 
 ---
 
